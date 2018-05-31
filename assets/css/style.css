@@ -1,0 +1,79 @@
+/* Default Style Overrides */
+
+p {
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 28px;
+	text-align: center;
+    margin-bottom: 0;
+    color: rgb(73, 104, 204);
+}
+
+h3 {
+	text-align: center;
+}
+
+.badge-primary {
+    background-color: #b94a48;
+  }
+.badge-primary:hover {
+    background-color: #953b39;
+  }
+.badge-secondary {
+    background-color: #f89406;
+  }
+.badge-secondary:hover {
+    background-color: #c67605;
+  }
+.badge-success {
+    background-color: #468847;
+  }
+.badge-success:hover {
+    background-color: #356635;
+  }
+.badge-danger {
+    background-color: #3a87ad;
+  }
+.badge-danger:hover {
+    background-color: #2d6987;
+  }
+.badge-warning {
+    background-color: #333333;
+  }
+.badge-warning:hover {
+    background-color: #1a1a1a;
+  }
+.badge-info {
+    background-color: #eb11b4;
+  }
+.badge-info:hover {
+    background-color: #b31490;
+  }
+
+h2{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#wins {
+	text-align: center;
+}
+
+#losses {
+	text-align: center;
+}
+
+#remaining-guesses {
+	text-align: center;
+}
+
+#user-guesses {
+	text-align: center;
+}
+
+.guessLine {
+	text-align: center;
+	color: rgb(73, 104, 204);
+}
